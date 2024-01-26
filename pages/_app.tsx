@@ -47,7 +47,7 @@ const MyApp = ({ Component, pageProps }: AppProps<CustomAppProps>) => {
       links: siteConfig.navLinks,
       search: siteConfig.search,
       social: siteConfig.social,
-      siteMap: [{ name: "blog", href: "/blog" }],
+      siteMap: siteConfig.siteMap,
     },
     author: {
       name: siteConfig.author,
