@@ -7,6 +7,7 @@ const siteConfig: any = {
   ...userConfig,
   // prevent theme object overrides for
   // values not provided in userConfig
+  title: "Jeonbg",
   theme: {
     ...defaultConfig.theme,
     ...userConfig?.theme,
