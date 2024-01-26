@@ -8,7 +8,10 @@ const siteConfig: any = {
   // prevent theme object overrides for
   // values not provided in userConfig
   title: "Jeonbg",
-  navLinks: [{ name: "blog", href: "/blog" }],
+  navLinks: [
+    { name: "blog", href: "/blog" },
+    { name: "docs", href: "/docs" },
+  ],
   theme: {
     ...defaultConfig.theme,
     ...userConfig?.theme,
