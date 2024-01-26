@@ -11,6 +11,7 @@ const siteConfig: any = {
   navLinks: [
     { name: "blog", href: "/blog" },
     { name: "docs", href: "/docs" },
+    { name: "about", href: "/about" },
   ],
   theme: {
     ...defaultConfig.theme,
