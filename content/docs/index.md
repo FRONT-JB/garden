@@ -7,4 +7,6 @@
 > [!cite] 디자인 시스템
 > [[디자인 시스템과 UI 라이브러리]]
 
+> [!cite] 리액트 타입스크립트
+> [[Advance Typescript | Advanced Typescript: Using Generics]]
 
