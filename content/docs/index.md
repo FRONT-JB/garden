@@ -17,3 +17,6 @@
 > [!cite] 리액트 타입스크립트
 > [[AdvanceTypescript| Advanced Typescript: Using Generics]]
 
+> [!cite] 📚 프론트엔드 성능 최적화 가이드 ([링크](https://product.kyobobook.co.kr/detail/S000200178292))
+> [[블로그 서비스 최적화 | 1장 블로그 서비스 최적화]]
+
